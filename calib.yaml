@@ -1,0 +1,3 @@
+cam_model: 'pinhole' # 'fisheye' or 'pinhole'
+savedir: './runs/exp'
+debug: True
